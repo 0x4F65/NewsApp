@@ -1,7 +1,6 @@
 //
 //  ContentView.swift
 //  News
-// //TESTING 123
 //  Created .
 //
 
